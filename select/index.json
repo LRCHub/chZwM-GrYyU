@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Maestro of My Heart (Prod. Czaer)",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-03-23T20:44:18.415302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maestro of My Heart (Prod. Czaer)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/01_Maestro_of_My_Heart_(Prod._Czaer)_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maestro of My Heart (Prod. Czaer)",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/02_Maestro_of_My_Heart_(Prod._Czaer)_KISS_OF_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maestro of My Heart (Prod. Czaer) - Instrumental",
+      "artist": "KISS OF LIFE",
+      "has_synced": true,
+      "path": "select/03_Maestro_of_My_Heart_(Prod._Czaer)_-_Instrumental_KISS_OF_LIFE.lrc"
+    }
+  ]
+}
